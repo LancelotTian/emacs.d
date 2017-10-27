@@ -88,6 +88,7 @@
 (require 'init-csv)
 (require 'init-erlang)
 (require 'init-javascript)
+(require 'init-lua)
 (require 'init-php)
 (require 'init-org)
 (require 'init-nxml)
